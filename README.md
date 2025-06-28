@@ -31,9 +31,28 @@ I have passion about finding data insight. It is like solving the mystery behind
 
 ## Projects
 
-### Project 1: .... Power BI Dashboard
+### Project 1: Data Professional Survey Breakdown Power BI Dashboard
 
-Preview
+This is the project that work on data of survey on data analyse job.
+
+Task 1: Data Cleaning
+
+1.  Combine/Standardise data of "Other" which people fill in there own answer from all the columns that needed (\*Note: Better do it in excel so after we finish working on this data in Power BI we should do this data cleaning again on excel to get a better result) by using split column by delimiter
+    
+2.  Calculate average value of column "Q3 - Current Yearly Salary (in USD)" because the raw data is the range of salary by using
+    
+    1.  duplicate column
+        
+    2.  split column by digit to non-digit
+        
+    3.  then in the value like this "k-125" we use replace value in condition if we find "k" replace with nothing then do again for "-" and there is a case of "+" which is the maximum salary "225+" so will we replace this + with 225 wo the average will be 225
+        
+    4.  add column > custom column for "Average column" (need to change these columns to whole number first)
+        
+        1.  formular is (\[#"Q3 - Current Yearly Salary (in USD) - Copy.1"\]+\[#"Q3 - Current Yearly Salary (in USD) - Copy.2"\])/2
+            
+    5.  dfdf
+        
 
 ### Project 2:
 
