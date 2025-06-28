@@ -52,7 +52,9 @@ Task 1: Data Cleaning
         1.  formular is (\[#"Q3 - Current Yearly Salary (in USD) - Copy.1"\]+\[#"Q3 - Current Yearly Salary (in USD) - Copy.2"\])/2
             
     5.  dfdf
-        
+
+Preview
+![Image](https://github.com/user-attachments/assets/7818a13c-7e1b-44d0-849a-1087022c5158)
 
 ### Project 2:
 
